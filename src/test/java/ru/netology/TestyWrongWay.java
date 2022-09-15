@@ -11,7 +11,7 @@ import org.openqa.selenium.chrome.ChromeOptions;
 import java.util.List;
 
 public class TestyWrongWay {
-    WebDriver driver = new ChromeDriver();
+    WebDriver driver;
 
     @BeforeAll
     static void setupAll() {

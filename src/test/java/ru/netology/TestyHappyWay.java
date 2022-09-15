@@ -12,7 +12,7 @@ import java.util.List;
 
 public class TestyHappyWay {
 
-    WebDriver driver = new ChromeDriver();
+    WebDriver driver;
 
     @BeforeAll
 
